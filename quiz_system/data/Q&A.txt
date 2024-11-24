@@ -1,0 +1,3 @@
+what is the capital of china?|yes|c, beijing|moskov, new york|moskov belong to russia, new york belong to america
+what is orange?|no|color, fruit|vegetable, bomb|orange have seed, orange isnt flameable
+what are the color of rgb?|no|green, red, blue|orange, black, white|orange is combination of rgb by manage the value, black is the every color, white is the lightest color
